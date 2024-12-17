@@ -1,1 +1,0 @@
-<pre>{$dox.dox|escape:"html"}</pre>
